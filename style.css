@@ -1113,8 +1113,7 @@ hr {
     position: fixed;
     top: -100%;
     left: 0;
-    background-color: #182b3a;
-    background-image: linear-gradient(315deg, #182b3a 0%, #20a4f3 74%);
+    background-color: #22313f;
     height: 60vh;
     z-index: 101;
     width: 100%;
